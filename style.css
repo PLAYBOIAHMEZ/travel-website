@@ -1,0 +1,27 @@
+.navbar {
+  background: linear-gradient(45deg, #1cbbb4, white, purple);
+}
+.rio {
+  background-image: url(trav.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+}
+
+.bi {
+  color: #1cbbb4;
+}
+
+#showcase {
+  background-color: blueviolet;
+}
+
+#contact {
+  background-color: blueviolet;
+}
+
+.ss {
+  background-color: #1cbbb4;
+}
